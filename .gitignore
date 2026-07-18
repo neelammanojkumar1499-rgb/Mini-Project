@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Build outputs
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Test coverage
+coverage/
+
+# Misc
+.cache/
+*.tgz
+contact_messages.json
